@@ -1,0 +1,4 @@
+ultralytics
+yolo v8s (small)
+roboflow
+python
